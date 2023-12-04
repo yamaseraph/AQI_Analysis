@@ -6,3 +6,5 @@ With the same model, we will also graph and predict the pollutants(CO, NOX, NH3,
 
 You can find the original dataset we obtained from EPA's website at: https://www.epa.gov/air-emissions-inventories/air-pollutant-emissions-trends-data.
 The data that we used for our notebook, "state_trends.xlsx" can be found in this github under the same name
+
+*Note: This was collaborated with myself, my group members, and my mentor
