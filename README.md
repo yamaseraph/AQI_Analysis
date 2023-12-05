@@ -12,4 +12,4 @@ The data that we used for our notebook, "state_trends.xlsx" can be found in this
 
 The presentation to showcase our model can also be found under "Final Project Proposal Presentation.pptx".
 
-*Note: This was collaborated with myself, my group members, and my mentor
+*Note: This was collaborated with myself, my group members (Shiho Ikeda and Kate Lee), and my mentor
